@@ -1,4 +1,5 @@
 uses c++23
+
 [**example**](./main.cpp):
 ```cpp
 #include "Random.hpp"
