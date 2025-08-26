@@ -5,5 +5,5 @@ some library for my repositories
   - A c++ header which computes **random** in java
 - 2.[python/pullcheck.py](./python/pullcheck.py)
   - use `python pullcheck.py source_dirt target_dir`
-  - >Be cautious! It will delete all unnecessary files compared to the source folder
+  - >Be cautious! It will delete all unnecessary files in the target folder compared to the source folder
    
